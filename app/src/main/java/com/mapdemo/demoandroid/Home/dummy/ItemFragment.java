@@ -1,4 +1,4 @@
-package com.mapdemo.demoandroid.Home;
+package com.mapdemo.demoandroid.Home.dummy;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -13,7 +13,6 @@ import android.widget.ListAdapter;
 import android.widget.TextView;
 
 import com.mapdemo.demoandroid.R;
-import com.mapdemo.demoandroid.Home.dummy.DummyContent;
 
 /**
  * A fragment representing a list of Items.
