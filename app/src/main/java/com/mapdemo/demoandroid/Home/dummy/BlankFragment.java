@@ -1,4 +1,4 @@
-package com.mapdemo.demoandroid.Home;
+package com.mapdemo.demoandroid.Home.dummy;
 
 import android.app.Activity;
 import android.net.Uri;
